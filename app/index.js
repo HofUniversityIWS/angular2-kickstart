@@ -3,10 +3,6 @@ System.config({
     app: {
       format: 'register',
       defaultExtension: 'js'
-    },
-    'angular2-google-maps': {
-      format: 'register',
-      defaultExtension: 'js'
     }
   }
 });
